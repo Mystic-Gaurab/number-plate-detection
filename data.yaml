@@ -1,0 +1,6 @@
+train: D:\Python\Nepali Vehicles Number Plate Dataset\Number_Plate_Detection-20250423T154434Z-001\Number_Plate_Detection\Napr24\Napr24\train\images
+val: D:\Python\Nepali Vehicles Number Plate Dataset\Number_Plate_Detection-20250423T154434Z-001\Number_Plate_Detection\Napr24\Napr24\valid\images
+test: D:\Python\Nepali Vehicles Number Plate Dataset\Number_Plate_Detection-20250423T154434Z-001\Number_Plate_Detection\Napr24\Napr24\test\images
+
+nc: 24
+names: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'ba', 'cha', 'ga', 'ja', 'jha', 'ka', 'kha', 'lu', 'me', 'na', 'pa', 'pra', 'ra', 'ya']

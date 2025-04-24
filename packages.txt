@@ -1,3 +1,4 @@
 libgl1-mesa-glx
 python3-distutils
 ffmpeg
+pytube

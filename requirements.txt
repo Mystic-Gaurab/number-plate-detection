@@ -90,7 +90,7 @@ networkx==3.4.2
 notebook==7.2.2
 notebook_shim==0.2.4
 numpy==2.1.1
-opencv-python-headless
+opencv-python-headless==4.8.1.78
 
 openpyxl==3.1.5
 optree==0.14.1
@@ -144,7 +144,7 @@ sortedcontainers==2.4.0
 soupsieve==2.6
 stack-data==0.6.3
 statsmodels==0.14.4
-streamlit=1.30
+streamlit==1.30.0
 supervision==0.25.1
 sympy==1.13.1
 tenacity==9.0.0
@@ -152,7 +152,7 @@ terminado==0.18.1
 threadpoolctl==3.5.0
 tinycss2==1.4.0
 toml==0.10.2
-torch==2.6.0
+torch==2.1.0
 torchaudio==2.6.0
 torchvision==0.21.0
 tornado==6.4.1

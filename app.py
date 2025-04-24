@@ -7,7 +7,7 @@ from io import BytesIO
 # Load YOLO model
 @st.cache_resource
 def load_model():
-    return YOLO(r"D:\Python\Nepali Vehicles Number Plate Dataset\Number_Plate_Detection-20250423T154434Z-001\Number_Plate_Detection\Napr24\Napr24\runs\detect\train2\weights\best.pt")
+    return YOLO(r"best.pt")
 
 model = load_model()
 
